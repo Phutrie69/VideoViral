@@ -1,2 +1,2 @@
-# VideoViral
+# TrendCentral
 Kumpulan video viral terbaru hari ini
